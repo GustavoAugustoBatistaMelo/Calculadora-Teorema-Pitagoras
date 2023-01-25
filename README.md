@@ -24,5 +24,4 @@ Criar uma interface onde usuário poderá calcular a relação entre os lados de
 
   ## Link para o Repositório da Api
 
-[www.dio.me](http://www.dio.me/)
-
+https://github.com/GustavoAugustoBatistaMelo/API-Calculadora-Teorema--Pitagoras
